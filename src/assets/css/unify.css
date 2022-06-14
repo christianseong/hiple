@@ -1,0 +1,47 @@
+.logoTextL {
+  font-size: 60px;
+  font-weight: 600;
+}
+
+.mainTextL {
+  font-size: 32px;
+  font-weight: 600;
+}
+.mainTextM {
+  font-size: 24px;
+  font-weight: 600;
+}
+.mainTextS {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.articleTextL {
+  font-size: 24px;
+  font-weight: 500;
+}
+.articleTextM {
+  font-size: 18px;
+  font-weight: 500;
+}
+.articleTextS {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.helpText {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.cartHover:hover {
+  border: 1px solid rgba(98, 182, 171);
+}
+.bcImage {
+  background: url("../aibackground.png");
+  height: 100vh;
+}
+p {
+  margin-bottom: 0 !important;
+}
+
